@@ -1,5 +1,8 @@
 module.exports = {
-    plugins: [
-
-    ]
+  plugins: [
+    `gatsby-plugin-emotion`,
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+  ],
 }
