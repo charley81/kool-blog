@@ -6,7 +6,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <div>
-        <h1>start here</h1>
+        <h1>My Home Page</h1>
         <StaticImage
           src="https://source.unsplash.com/random"
           alt="random picture"
